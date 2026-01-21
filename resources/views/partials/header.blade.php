@@ -67,7 +67,7 @@
                                         <!-- Home Version Dropdown End -->
                                     </li>
 
-                                    <li><a href="">Contact</a></li>
+                                    <li><a href="/contacts">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
